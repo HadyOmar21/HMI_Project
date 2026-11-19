@@ -15,7 +15,7 @@ The project demonstrates analog sensor interfacing, ADC configuration, temperatu
 ## 2. Project Code
 
 **GitHub Repository:**
-[submission_repo](https://github.com/HadyOmar21/HMI_Project/tree/main/code)
+[submission_repo](https://github.com/HadyOmar21/HMI_Project/tree/main)
 
 **Local Root Directory**
 [link_to_local_root_directory](./code/HMI_Code/)
