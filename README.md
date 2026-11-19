@@ -21,7 +21,7 @@ The project demonstrates analog sensor interfacing, ADC configuration, temperatu
 [Code](./code/HMI_Code/)
 
 ## 3. Test Cases
-[robot_tests](./test/test_cases.robot)
+[test_cases](./test/test_cases.robot)
 
 ## 4. Bill of Materials (BOM)
 
