@@ -61,8 +61,6 @@ void ADC_Init(adc_config_t *adc)
 
     ADC_ConfigureAnalogPin(adc->adc_channel);
 
-    adc->initialized = 1U;
-
     delay(2);
 }
 
