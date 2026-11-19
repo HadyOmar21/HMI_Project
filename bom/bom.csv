@@ -1,0 +1,13 @@
+﻿Part,Description,Quantity,Manufacturer / Brand,Part Number,Datasheet,Part Number / Model,Unit Price (EGP),Total Price (EGP)
+Arduino Uno R3 compatible board,"ATmega328P, 5 V, 16 MHz, USB Type-B interface",1,Arduino,A000066,https://docs.arduino.cc/hardware/uno-rev3/,UNO R3 SMD / CH340G,350,350
+LM35 temperature sensor,"LM35DZ analog temperature sensor, TO-92",1,,,,LM35DZ,45,55
+16x2 character LCD,"HD44780-compatible, 5 V, 16-pin parallel interface",1,,,,LCD1602 / CHARX2,60,55
+push button,"Normally-open momentary switch, breadboard-compatible 6x6 mm",2,,,,"6x6 mm, 4-pin",0.75,1.5
+Pull-down resistor,"10 kOhm, 0.25 W, one per active-HIGH button input",2,,,,"10 kOhm, 1/4 W",0.25,0.5
+Alert LED,Blue 5 mm through-hole LED,1,,,,5 mm red,1,1
+LED current-limiting resistor,"220 Ohm, 0.25 W, series with alert LED",1,,,,"220 Ohm, 1/4 W",0.15,0.15
+breadboard,830-point breadboard,1,,,,MB-102 / 830-point,30,30
+Jumper wire set,65-piece flexible breadboard jumper wire set,1,,,,65-piece male-to-male / assorted,40,40
+USB A-to-B cable,USB programming and power cable for Uno,1,,,,"USB Type-A to Type-B, 30 cm",20,20
+Potentiometer,Rotary Potentiometer 10 kΩ,1,,,,Rotary Potentiometer 10 kΩ,5,5
+TOTAL,,,,,,,,558.15
